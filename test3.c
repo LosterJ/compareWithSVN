@@ -1,7 +1,8 @@
 #include <stdio.h>
 
 int main(){
-	printf("Test3.c");
+	int i;
+	printf("i");
 	printf("Ok");
 	return 0;
 }
