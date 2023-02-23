@@ -1,0 +1,4 @@
+Hello World project:
+- write by C
+- compiler is gcc
+- have makefile
